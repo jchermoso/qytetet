@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>lib/tipo_sorpresa.rb</url>
+            <bookmark id="1">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/jc/NetBeansProjects/QytetetRuby/lib/casilla.rb</file>
+            <file>file:/home/jc/NetBeansProjects/QytetetRuby/lib/qytetet.rb</file>
+            <file>file:/home/jc/NetBeansProjects/QytetetRuby/lib/especulador.rb</file>
+            <file>file:/home/jc/NetBeansProjects/QytetetRuby/lib/controlador_qytetet.rb</file>
+            <file>file:/home/jc/NetBeansProjects/QytetetRuby/lib/vista_textual_qytetet.rb</file>
+            <file>file:/home/jc/NetBeansProjects/QytetetRuby/lib/jugador.rb</file>
+            <file>file:/home/jc/NetBeansProjects/QytetetRuby/lib/calle.rb</file>
+            <file>file:/home/jc/NetBeansProjects/QytetetRuby/lib/titulo_propiedad.rb</file>
+        </group>
+    </open-files>
+</project-private>
